@@ -4,7 +4,7 @@ genai.configure(api_key="AIzaSyCVYXfVaEUEJi4rtdoWi6_6jPRSIf3BBPk")
 
 
 
-
+pip --version
 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
